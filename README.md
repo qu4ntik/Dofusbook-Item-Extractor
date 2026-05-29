@@ -24,4 +24,4 @@ The code is on this page : https://github.com/qu4ntik/Dofusbook-Item-Extractor/b
 5. The 16 items appear in a column
 6. Click Close to dismiss the panel
 
-<img width="1345" height="343" alt="image" src="https://github.com/user-attachments/assets/e96afa31-dbb6-48f3-81a3-3b2a97b1f672" />
+<img width="1599" height="572" alt="image" src="https://github.com/user-attachments/assets/44927885-2020-4495-98d0-22cd876d9e53" />
