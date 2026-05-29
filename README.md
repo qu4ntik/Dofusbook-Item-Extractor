@@ -1,6 +1,6 @@
 # Dofusbook Item Extractor
 
--- FRENCH --
+FRENCH : 
 Copie n'importe quel build dofus-book dans une liste en une seule commande JS.
 Tu peux ensuite la copier dans excel et cela va automatiquement la mettre dans la ligne où tu as cliqué.
 1. Colle et exécute le script dans la console (F12)
@@ -10,7 +10,7 @@ Tu peux ensuite la copier dans excel et cela va automatiquement la mettre dans l
 5. Les 16 items s'affichent en colonne
 6. Clique Fermer pour faire disparaître le panneau
 
--- ENGLISH -- 
+ENGLISH :
 Copy any dofus-book build into a list of items in one JS command
 You can copy it in excel and it will auto-paste it on the row you clicked.
 
