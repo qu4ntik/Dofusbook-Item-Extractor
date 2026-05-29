@@ -3,6 +3,8 @@
 FRENCH : 
 Copie n'importe quel build dofus-book dans une liste en une seule commande JS.
 Tu peux ensuite la copier dans excel et cela va automatiquement la mettre dans la ligne où tu as cliqué.
+Le code est disponible sur https://github.com/qu4ntik/Dofusbook-Item-Extractor/blob/main/console_code.js
+
 1. Colle et exécute le script dans la console (F12)
 2. Un panneau doré apparaît en haut à droite de la page
 3. Le texte est déjà sélectionné automatiquement → Ctrl+C
@@ -13,6 +15,7 @@ Tu peux ensuite la copier dans excel et cela va automatiquement la mettre dans l
 ENGLISH :
 Copy any dofus-book build into a list of items in one JS command
 You can copy it in excel and it will auto-paste it on the row you clicked.
+The code is on this page : https://github.com/qu4ntik/Dofusbook-Item-Extractor/blob/main/console_code.js
 
 1. Paste and run the script in the console (F12)
 2. A gold panel appears in the top-right corner of the page
