@@ -1,4 +1,5 @@
 # Dofusbook Item Extractor
+<img width="286" height="387" alt="image" src="https://github.com/user-attachments/assets/f6e4b2a9-1cae-4be7-9181-cbdb48b905c9" />
 
 FRENCH : 
 Copie n'importe quel build dofus-book dans une liste en une seule commande JS.
